@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to FeVueCli 👋</h1>
+<h1 align="center">Welcome to Vue template 👋</h1>
 <p>
 </p>
 
